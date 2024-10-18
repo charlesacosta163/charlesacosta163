@@ -3,9 +3,9 @@
 a caffeine enthusiast and 🏎️ fanatic ☕💪
 
 ## 💻 Tech Stack
-- **Frontend:** JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
-- **Backend:** JavaScript/TypeScript (Node.js, Express), MySQL, PostgreSQL
-- **Frameworks:** React, Next.js
+- **Frontend:** JavaScript, TypeScript, HTML, CSS (Tailwind)  
+- **Backend:** JavaScript/TypeScript (Node.js), MySQL, PostgreSQL, MongoDB
+- **Frameworks:** React, Next.js, Express
 - **Familiar With:** Java, Python
 
 ## 🚀 Current/In Progress Projects
@@ -19,7 +19,7 @@ a caffeine enthusiast and 🏎️ fanatic ☕💪
 - Continuously learning and adapting to different technologies to deliver robust solutions.
 - Host a fully-fledged production application before 2025 🎆
 
-thanks for reading, have a great day! and let's collab 🫡
+Thanks for reading, have a great day! and let's collab 🫡
 
 <!---
 charlesacosta163/charlesacosta163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
