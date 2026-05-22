@@ -1,48 +1,90 @@
-# 👋 Hi, I’m **@charlesacosta163**
+# 👋 Hi, I’m Charles Acosta
 
-a caffeine enthusiast and 🏎️ fanatic ☕💪  
-Currently building tools that *actually* help students — one repo at a time.
+I’m a Computer Science student at Kean University and a full-stack web developer focused on building practical tools, dashboards, and web applications that solve real problems.
 
-Also, feel free to support me — it's very much appreciated 💙
+Most of my work centers around modern JavaScript/TypeScript development, data-driven interfaces, backend integrations, and user-focused products. I enjoy building projects from idea to deployment, learning through real-world problems, and improving my skills one project at a time.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/charlesacosta163)
+I’m also into aviation, analytics, skateboarding, caffeine, and cars. ☕🏎️
 
 ---
 
 ## 💻 Tech Stack
-- **Frontend:** JavaScript, TypeScript, HTML, CSS (Tailwind CSS)  
-- **Backend:** JavaScript/TypeScript (Node.js), MySQL, PostgreSQL, MongoDB
-- **Frameworks/Libraries:** React, Next.js, Express, Docker
-- **BaaS:** Supabase, Appwrite
-- **Familiar With:** Java, Python, PHP
+
+**Frontend:**  
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+
+**Backend & Databases:**  
+Node.js, Express.js, PostgreSQL, MySQL, MongoDB, REST APIs
+
+**Tools & Platforms:**  
+Supabase, Stripe, Vercel, Docker, Git, GitHub
+
+**Familiar With:**  
+Java, Python, PHP, Chart.js, data visualization, API integrations
 
 ---
 
-## 🚀 In Progress
+## 🚀 Featured Projects
 
-### **KU Watch and MC Sniper** — A Smart Course Sniper for Kean University and Middlesex College  
-Helps students track course availability and get notified when a seat opens up via Discord.  
-Built with **Next.js**, **Supabase**, **Express.js**, and **Tailwind CSS**.  
-> Currently in beta. Premium features coming soon (Personalized Kanban, More Snipes, and more!)
-> MC Sniper is currently in development, beta release planned for the summer.
+### [IFlytics](https://iflytics.app) — Analytics Platform for Infinite Flight Users
+
+IFlytics is a full-stack analytics platform built for the Infinite Flight community. Users can search for their Infinite Flight username and view flight statistics, flight history, route maps, aircraft insights, community profiles, CSV exports, and more.
+
+Built with **Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Stripe, and REST APIs**.
+
+Key areas I worked on:
+- Dashboard pages and user profile pages
+- Flight history and analytics features
+- API integrations with paginated data fetching
+- Caching and performance improvements
+- Stripe payment flow for premium/lifetime access
+- Responsive UI and data visualization
+
+---
+
+### KU Watch — Course Availability Tracker for Kean University
+
+KU Watch helps students track course availability and get notified when seats open up. The project was built to solve a real student problem: constantly checking whether a course section has become available.
+
+Built with **Next.js, TypeScript, Tailwind CSS, Supabase, Express.js, and Discord notifications**.
+
+Features include:
+- Course watchlists
+- Authentication
+- Seat availability tracking
+- Notification system
+- Student-focused dashboard UI
 
 ---
 
 ## 🌱 Currently Learning
-- Python and its Data Structures
-- Data visualization (Chart.js, SQL)
-- AI + web integration (LLMs, inference APIs)
-- Backend architecture using Supabase
+
+- Advanced backend architecture with Supabase and PostgreSQL
+- Data visualization and analytics dashboards
+- Python and data structures
+- AI-assisted development workflows
+- Scalable API usage, caching, and background processing
+- WordPress, PHP, and broader web development tools
 
 ---
 
-## 🎯 Goals
-- Land a **full-stack / front-end / backend developer internship** for **Summer 2025**
-- Push KU Watch to full production by the end of the year 🎆
-- Ship more polished open source tools to solve real-life problems
-- Keep experimenting with new tech, learning by building
+## 🎯 Current Goals
+
+- Land a **software engineering, full-stack, front-end, backend, or web development internship**
+- Continue improving IFlytics based on real user feedback
+- Build more polished, useful tools for students and online communities
+- Strengthen my backend, database, and system design skills
+- Keep learning by shipping real projects
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: [charlesacosta.dev](https://charlesacosta.dev)
+- GitHub: [@charlesacosta163](https://github.com/charlesacosta163)
+- IFlytics: [iflytics.app](https://iflytics.app)
 
 ---
 
 Thanks for stopping by!  
-Let’s connect, collab, or just geek out about tech ✌️
+I’m always open to connecting, collaborating, or talking about web development, analytics, aviation, and building useful software.
