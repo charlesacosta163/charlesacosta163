@@ -4,8 +4,6 @@ I’m a Computer Science student at Kean University and a full-stack web develop
 
 Most of my work centers around modern JavaScript/TypeScript development, data-driven interfaces, backend integrations, and user-focused products. I enjoy building projects from idea to deployment, learning through real-world problems, and improving my skills one project at a time.
 
-I’m also into aviation, analytics, skateboarding, caffeine, and cars. ☕🏎️
-
 ---
 
 ## 💻 Tech Stack
@@ -87,4 +85,4 @@ Features include:
 ---
 
 Thanks for stopping by!  
-I’m always open to connecting, collaborating, or talking about web development, analytics, aviation, and building useful software.
+I’m always open to connecting, collaborating, or talking about web development, analytics, and building useful software.
